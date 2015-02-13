@@ -1,0 +1,5 @@
+[package]
+
+name = "drm-rs"
+version = "0.0.1"
+authors = ["Scott Anderson <ascent@airmail.cc>"]
