@@ -1,5 +1,10 @@
 [package]
 
 name = "drm-rs"
-version = "0.0.1"
-authors = ["Scott Anderson <ascent@airmail.cc>"]
+version = "0.1.0"
+authors = ["Scott Anderson <ascent12@hotmail.com>"]
+license = "MIT"
+repository = "https://github.com/ascent12/drm-rs"
+readme = "README.md"
+keywords = ["drm", "mesa", "linux", "wayland"]
+description = "Rust bindings to libdrm"
